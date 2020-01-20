@@ -1,0 +1,181 @@
+[
+  {
+    "name": "Skillet",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eleifend bibendum magna, a dictum nibh accumsan at. Nam varius scelerisque commodo. Nam ac libero vel dui feugiat volutpat nec sit amet ligula. Ut vitae elementum orci, eu convallis nisl. Sed ac neque at turpis lobortis aliquam vel lobortis mi. Etiam scelerisque a tortor sed vestibulum. Pellentesque ut enim vel felis feugiat scelerisque. Nulla varius velit sit amet sem semper consequat. Vestibulum malesuada, purus vitae luctus molestie, enim nisl porttitor erat, pulvinar accumsan mauris ex vel purus.",
+    "image": "https://images.unsplash.com/photo-1510693206972-df098062cb71?ixlib=rb-1.2.1&auto=format&fit=crop&w=1501&q=80",
+    "score": 4,
+    "featured": true,
+    "category": "breakfast"
+  },
+  {
+    "name": "Healthy toasts",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eleifend bibendum magna, a dictum nibh accumsan at. Nam varius scelerisque commodo. Nam ac libero vel dui feugiat volutpat nec sit amet ligula. Ut vitae elementum orci, eu convallis nisl. Sed ac neque at turpis lobortis aliquam vel lobortis mi. Etiam scelerisque a tortor sed vestibulum. Pellentesque ut enim vel felis feugiat scelerisque. Nulla varius velit sit amet sem semper consequat. Vestibulum malesuada, purus vitae luctus molestie, enim nisl porttitor erat, pulvinar accumsan mauris ex vel purus.",
+    "image": "https://images.unsplash.com/photo-1530564404026-d9f1e326af3f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1576&q=80",
+    "score": 3,
+    "category": "breakfast"
+  },
+  {
+    "name": "Coffee & Sandwich",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eleifend bibendum magna, a dictum nibh accumsan at. Nam varius scelerisque commodo. Nam ac libero vel dui feugiat volutpat nec sit amet ligula. Ut vitae elementum orci, eu convallis nisl. Sed ac neque at turpis lobortis aliquam vel lobortis mi. Etiam scelerisque a tortor sed vestibulum. Pellentesque ut enim vel felis feugiat scelerisque. Nulla varius velit sit amet sem semper consequat. Vestibulum malesuada, purus vitae luctus molestie, enim nisl porttitor erat, pulvinar accumsan mauris ex vel purus.",
+    "image": "https://images.unsplash.com/photo-1533920606431-81cd9c3bce0f?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+    "score": 5,
+    "category": "breakfast"
+  },
+  {
+    "name": "just a sandwich",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eleifend bibendum magna, a dictum nibh accumsan at. Nam varius scelerisque commodo. Nam ac libero vel dui feugiat volutpat nec sit amet ligula. Ut vitae elementum orci, eu convallis nisl. Sed ac neque at turpis lobortis aliquam vel lobortis mi. Etiam scelerisque a tortor sed vestibulum. Pellentesque ut enim vel felis feugiat scelerisque. Nulla varius velit sit amet sem semper consequat. Vestibulum malesuada, purus vitae luctus molestie, enim nisl porttitor erat, pulvinar accumsan mauris ex vel purus.",
+    "image": "https://images.unsplash.com/photo-1469648034646-7911874fe62b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1038&q=80",
+    "score": 3,
+    "category": "breakfast"
+  },
+  {
+    "name": "Sandwich",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eleifend bibendum magna, a dictum nibh accumsan at. Nam varius scelerisque commodo. Nam ac libero vel dui feugiat volutpat nec sit amet ligula. Ut vitae elementum orci, eu convallis nisl. Sed ac neque at turpis lobortis aliquam vel lobortis mi. Etiam scelerisque a tortor sed vestibulum. Pellentesque ut enim vel felis feugiat scelerisque. Nulla varius velit sit amet sem semper consequat. Vestibulum malesuada, purus vitae luctus molestie, enim nisl porttitor erat, pulvinar accumsan mauris ex vel purus.",
+    "image": "https://images.unsplash.com/photo-1517652792063-9c3118770d54?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+    "score": 4,
+    "category": "breakfast"
+  },
+  {
+    "name": "Vegan salad",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eleifend bibendum magna, a dictum nibh accumsan at. Nam varius scelerisque commodo. Nam ac libero vel dui feugiat volutpat nec sit amet ligula. Ut vitae elementum orci, eu convallis nisl. Sed ac neque at turpis lobortis aliquam vel lobortis mi. Etiam scelerisque a tortor sed vestibulum. Pellentesque ut enim vel felis feugiat scelerisque. Nulla varius velit sit amet sem semper consequat. Vestibulum malesuada, purus vitae luctus molestie, enim nisl porttitor erat, pulvinar accumsan mauris ex vel purus.",
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+    "score": 4,
+    "category": "salad"
+  },
+  {
+    "name": "Fresh veggies",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eleifend bibendum magna, a dictum nibh accumsan at. Nam varius scelerisque commodo. Nam ac libero vel dui feugiat volutpat nec sit amet ligula. Ut vitae elementum orci, eu convallis nisl. Sed ac neque at turpis lobortis aliquam vel lobortis mi. Etiam scelerisque a tortor sed vestibulum. Pellentesque ut enim vel felis feugiat scelerisque. Nulla varius velit sit amet sem semper consequat. Vestibulum malesuada, purus vitae luctus molestie, enim nisl porttitor erat, pulvinar accumsan mauris ex vel purus.",
+    "image": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjI0MX0&auto=format&fit=crop&w=1035&q=80",
+    "score": 4,
+    "category": "salad"
+  },
+  {
+    "name": "Buddha bowl",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eleifend bibendum magna, a dictum nibh accumsan at. Nam varius scelerisque commodo. Nam ac libero vel dui feugiat volutpat nec sit amet ligula. Ut vitae elementum orci, eu convallis nisl. Sed ac neque at turpis lobortis aliquam vel lobortis mi. Etiam scelerisque a tortor sed vestibulum. Pellentesque ut enim vel felis feugiat scelerisque. Nulla varius velit sit amet sem semper consequat. Vestibulum malesuada, purus vitae luctus molestie, enim nisl porttitor erat, pulvinar accumsan mauris ex vel purus.",
+    "image": "https://images.unsplash.com/photo-1505576633757-0ac1084af824?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80",
+    "score": 3,
+    "category": "salad"
+  },
+  {
+    "name": "Salmon wraps",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eleifend bibendum magna, a dictum nibh accumsan at. Nam varius scelerisque commodo. Nam ac libero vel dui feugiat volutpat nec sit amet ligula. Ut vitae elementum orci, eu convallis nisl. Sed ac neque at turpis lobortis aliquam vel lobortis mi. Etiam scelerisque a tortor sed vestibulum. Pellentesque ut enim vel felis feugiat scelerisque. Nulla varius velit sit amet sem semper consequat. Vestibulum malesuada, purus vitae luctus molestie, enim nisl porttitor erat, pulvinar accumsan mauris ex vel purus.",
+    "image": "https://images.unsplash.com/photo-1525093831618-8c7e0a8c3412?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+    "score": 2,
+    "category": "salad"
+  },
+  {
+    "name": "Strawberry, spinach and feta salad",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eleifend bibendum magna, a dictum nibh accumsan at. Nam varius scelerisque commodo. Nam ac libero vel dui feugiat volutpat nec sit amet ligula. Ut vitae elementum orci, eu convallis nisl. Sed ac neque at turpis lobortis aliquam vel lobortis mi. Etiam scelerisque a tortor sed vestibulum. Pellentesque ut enim vel felis feugiat scelerisque. Nulla varius velit sit amet sem semper consequat. Vestibulum malesuada, purus vitae luctus molestie, enim nisl porttitor erat, pulvinar accumsan mauris ex vel purus.",
+    "image": "https://images.unsplash.com/photo-1570197571499-166b36435e9f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=650&q=80",
+    "score": 4,
+    "category": "salad"
+  },
+  {
+    "name": "Sliced meat",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eleifend bibendum magna, a dictum nibh accumsan at. Nam varius scelerisque commodo. Nam ac libero vel dui feugiat volutpat nec sit amet ligula. Ut vitae elementum orci, eu convallis nisl. Sed ac neque at turpis lobortis aliquam vel lobortis mi. Etiam scelerisque a tortor sed vestibulum. Pellentesque ut enim vel felis feugiat scelerisque. Nulla varius velit sit amet sem semper consequat. Vestibulum malesuada, purus vitae luctus molestie, enim nisl porttitor erat, pulvinar accumsan mauris ex vel purus.",
+    "image": "https://images.unsplash.com/photo-1558030006-450675393462?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1189&q=80",
+    "score": 5,
+    "category": "meat_and_fish"
+  },
+  {
+    "name": "Roasted ribs",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eleifend bibendum magna, a dictum nibh accumsan at. Nam varius scelerisque commodo. Nam ac libero vel dui feugiat volutpat nec sit amet ligula. Ut vitae elementum orci, eu convallis nisl. Sed ac neque at turpis lobortis aliquam vel lobortis mi. Etiam scelerisque a tortor sed vestibulum. Pellentesque ut enim vel felis feugiat scelerisque. Nulla varius velit sit amet sem semper consequat. Vestibulum malesuada, purus vitae luctus molestie, enim nisl porttitor erat, pulvinar accumsan mauris ex vel purus.",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1049&q=80",
+    "score": 5,
+    "category": "meat_and_fish"
+  },
+  {
+    "name": "Gourmet meal",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eleifend bibendum magna, a dictum nibh accumsan at. Nam varius scelerisque commodo. Nam ac libero vel dui feugiat volutpat nec sit amet ligula. Ut vitae elementum orci, eu convallis nisl. Sed ac neque at turpis lobortis aliquam vel lobortis mi. Etiam scelerisque a tortor sed vestibulum. Pellentesque ut enim vel felis feugiat scelerisque. Nulla varius velit sit amet sem semper consequat. Vestibulum malesuada, purus vitae luctus molestie, enim nisl porttitor erat, pulvinar accumsan mauris ex vel purus.",
+    "image": "https://images.unsplash.com/photo-1428259067396-2d6bd3827878?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1053&q=80",
+    "score": 5,
+    "category": "meat_and_fish"
+  },
+  {
+    "name": "Tawa fish with rice",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eleifend bibendum magna, a dictum nibh accumsan at. Nam varius scelerisque commodo. Nam ac libero vel dui feugiat volutpat nec sit amet ligula. Ut vitae elementum orci, eu convallis nisl. Sed ac neque at turpis lobortis aliquam vel lobortis mi. Etiam scelerisque a tortor sed vestibulum. Pellentesque ut enim vel felis feugiat scelerisque. Nulla varius velit sit amet sem semper consequat. Vestibulum malesuada, purus vitae luctus molestie, enim nisl porttitor erat, pulvinar accumsan mauris ex vel purus.",
+    "image": "https://images.unsplash.com/photo-1576488489579-6967c02c56fc?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+    "score": 3,
+    "category": "meat_and_fish"
+  },
+  {
+    "name": "Meat <3",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eleifend bibendum magna, a dictum nibh accumsan at. Nam varius scelerisque commodo. Nam ac libero vel dui feugiat volutpat nec sit amet ligula. Ut vitae elementum orci, eu convallis nisl. Sed ac neque at turpis lobortis aliquam vel lobortis mi. Etiam scelerisque a tortor sed vestibulum. Pellentesque ut enim vel felis feugiat scelerisque. Nulla varius velit sit amet sem semper consequat. Vestibulum malesuada, purus vitae luctus molestie, enim nisl porttitor erat, pulvinar accumsan mauris ex vel purus.",
+    "image": "https://images.unsplash.com/photo-1553719129-5c8e06e204bc?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+    "score": 5,
+    "category": "meat_and_fish"
+  },
+  {
+    "name": "Strawberry shake",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eleifend bibendum magna, a dictum nibh accumsan at. Nam varius scelerisque commodo. Nam ac libero vel dui feugiat volutpat nec sit amet ligula. Ut vitae elementum orci, eu convallis nisl. Sed ac neque at turpis lobortis aliquam vel lobortis mi. Etiam scelerisque a tortor sed vestibulum. Pellentesque ut enim vel felis feugiat scelerisque. Nulla varius velit sit amet sem semper consequat. Vestibulum malesuada, purus vitae luctus molestie, enim nisl porttitor erat, pulvinar accumsan mauris ex vel purus.",
+    "image": "https://images.unsplash.com/photo-1543573852-1a71a6ce19bc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80",
+    "score": 4,
+    "category": "dessert"
+  },
+  {
+    "name": "Cupcake",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eleifend bibendum magna, a dictum nibh accumsan at. Nam varius scelerisque commodo. Nam ac libero vel dui feugiat volutpat nec sit amet ligula. Ut vitae elementum orci, eu convallis nisl. Sed ac neque at turpis lobortis aliquam vel lobortis mi. Etiam scelerisque a tortor sed vestibulum. Pellentesque ut enim vel felis feugiat scelerisque. Nulla varius velit sit amet sem semper consequat. Vestibulum malesuada, purus vitae luctus molestie, enim nisl porttitor erat, pulvinar accumsan mauris ex vel purus.",
+    "image": "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1534&q=80",
+    "score": 4,
+    "category": "dessert"
+  },
+  {
+    "name": "Cheesecake",
+    "featured": true,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eleifend bibendum magna, a dictum nibh accumsan at. Nam varius scelerisque commodo. Nam ac libero vel dui feugiat volutpat nec sit amet ligula. Ut vitae elementum orci, eu convallis nisl. Sed ac neque at turpis lobortis aliquam vel lobortis mi. Etiam scelerisque a tortor sed vestibulum. Pellentesque ut enim vel felis feugiat scelerisque. Nulla varius velit sit amet sem semper consequat. Vestibulum malesuada, purus vitae luctus molestie, enim nisl porttitor erat, pulvinar accumsan mauris ex vel purus.",
+    "image": "https://images.unsplash.com/photo-1508737804141-4c3b688e2546?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1533&q=80",
+    "score": 4,
+    "category": "dessert"
+  },
+  {
+    "name": "Donuts",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eleifend bibendum magna, a dictum nibh accumsan at. Nam varius scelerisque commodo. Nam ac libero vel dui feugiat volutpat nec sit amet ligula. Ut vitae elementum orci, eu convallis nisl. Sed ac neque at turpis lobortis aliquam vel lobortis mi. Etiam scelerisque a tortor sed vestibulum. Pellentesque ut enim vel felis feugiat scelerisque. Nulla varius velit sit amet sem semper consequat. Vestibulum malesuada, purus vitae luctus molestie, enim nisl porttitor erat, pulvinar accumsan mauris ex vel purus.",
+    "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1400&q=80",
+    "score": 4,
+    "featured": true,
+    "category": "dessert"
+  },
+  {
+    "name": "Ice cream",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eleifend bibendum magna, a dictum nibh accumsan at. Nam varius scelerisque commodo. Nam ac libero vel dui feugiat volutpat nec sit amet ligula. Ut vitae elementum orci, eu convallis nisl. Sed ac neque at turpis lobortis aliquam vel lobortis mi. Etiam scelerisque a tortor sed vestibulum. Pellentesque ut enim vel felis feugiat scelerisque. Nulla varius velit sit amet sem semper consequat. Vestibulum malesuada, purus vitae luctus molestie, enim nisl porttitor erat, pulvinar accumsan mauris ex vel purus.",
+    "image": "https://images.unsplash.com/photo-1551024506-0bccd828d307?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1400&q=80",
+    "score": 4,
+    "category": "dessert"
+  },
+  {
+    "name": "Whiskey",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eleifend bibendum magna, a dictum nibh accumsan at. Nam varius scelerisque commodo. Nam ac libero vel dui feugiat volutpat nec sit amet ligula. Ut vitae elementum orci, eu convallis nisl. Sed ac neque at turpis lobortis aliquam vel lobortis mi. Etiam scelerisque a tortor sed vestibulum. Pellentesque ut enim vel felis feugiat scelerisque. Nulla varius velit sit amet sem semper consequat. Vestibulum malesuada, purus vitae luctus molestie, enim nisl porttitor erat, pulvinar accumsan mauris ex vel purus.",
+    "image": "https://images.unsplash.com/photo-1470337458703-46ad1756a187?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1498&q=80",
+    "score": 4,
+    "category": "drink"
+  },
+  {
+    "name": "Fruit juice",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eleifend bibendum magna, a dictum nibh accumsan at. Nam varius scelerisque commodo. Nam ac libero vel dui feugiat volutpat nec sit amet ligula. Ut vitae elementum orci, eu convallis nisl. Sed ac neque at turpis lobortis aliquam vel lobortis mi. Etiam scelerisque a tortor sed vestibulum. Pellentesque ut enim vel felis feugiat scelerisque. Nulla varius velit sit amet sem semper consequat. Vestibulum malesuada, purus vitae luctus molestie, enim nisl porttitor erat, pulvinar accumsan mauris ex vel purus.",
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1425&q=80",
+    "score": 4,
+    "category": "drink"
+  },
+  {
+    "name": "Wine",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eleifend bibendum magna, a dictum nibh accumsan at. Nam varius scelerisque commodo. Nam ac libero vel dui feugiat volutpat nec sit amet ligula. Ut vitae elementum orci, eu convallis nisl. Sed ac neque at turpis lobortis aliquam vel lobortis mi. Etiam scelerisque a tortor sed vestibulum. Pellentesque ut enim vel felis feugiat scelerisque. Nulla varius velit sit amet sem semper consequat. Vestibulum malesuada, purus vitae luctus molestie, enim nisl porttitor erat, pulvinar accumsan mauris ex vel purus.",
+    "image": "https://images.unsplash.com/photo-1498429152472-9a433d9ddf3b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+    "score": 4,
+    "category": "drink"
+  },
+  {
+    "name": "Mint & strawberry beverage",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eleifend bibendum magna, a dictum nibh accumsan at. Nam varius scelerisque commodo. Nam ac libero vel dui feugiat volutpat nec sit amet ligula. Ut vitae elementum orci, eu convallis nisl. Sed ac neque at turpis lobortis aliquam vel lobortis mi. Etiam scelerisque a tortor sed vestibulum. Pellentesque ut enim vel felis feugiat scelerisque. Nulla varius velit sit amet sem semper consequat. Vestibulum malesuada, purus vitae luctus molestie, enim nisl porttitor erat, pulvinar accumsan mauris ex vel purus.",
+    "image": "https://images.unsplash.com/photo-1560508180-03f285f67ded?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80",
+    "score": 4,
+    "category": "drink"
+  },
+  {
+    "name": "Apple cider",
+    "featured": true,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eleifend bibendum magna, a dictum nibh accumsan at. Nam varius scelerisque commodo. Nam ac libero vel dui feugiat volutpat nec sit amet ligula. Ut vitae elementum orci, eu convallis nisl. Sed ac neque at turpis lobortis aliquam vel lobortis mi. Etiam scelerisque a tortor sed vestibulum. Pellentesque ut enim vel felis feugiat scelerisque. Nulla varius velit sit amet sem semper consequat. Vestibulum malesuada, purus vitae luctus molestie, enim nisl porttitor erat, pulvinar accumsan mauris ex vel purus.",
+    "image": "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+    "score": 4,
+    "category": "drink"
+  }
+]

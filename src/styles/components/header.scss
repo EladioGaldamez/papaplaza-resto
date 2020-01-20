@@ -1,0 +1,36 @@
+.header {
+  @include display-flexbox(auto);
+  @include justify-content(space-between);
+  @include align-items(center);
+  @include prefix(transition, all 0.2s ease-in-out, moz spec);
+  padding: 1rem 2rem;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1020;
+
+  .brand {
+    color: $white;
+  }
+
+  .navigation {
+    
+    a {
+      position: relative;
+      color: $white;
+      padding: 0 1rem;
+      font-weight: 600;
+
+      &.active {
+        span {
+          border-bottom: 2px solid #8f8f8f;
+        }
+      }
+    }
+  }
+
+  &.bg-dark {
+    background-color: #2b2b2b;
+  }
+}
