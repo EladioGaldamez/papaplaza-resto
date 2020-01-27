@@ -1,6 +1,8 @@
 import React from 'react'
 import Hero from '../components/Hero'
 import FeaturedFood from '../components/FeaturedFood'
+import CategorizedMenu from '../components/CategorizedMenu'
+import OrderCTA from '../components/OrderCTA'
 
 class Index extends React.Component {
   render() {
@@ -16,6 +18,12 @@ class Index extends React.Component {
         <FeaturedFood
           title="Our featured food"
           content="Feel the cuisine a test like never before" />
+
+        <CategorizedMenu
+          title="Our Categorized Menu"
+           />
+
+        <OrderCTA />
       </section>
     )
   }

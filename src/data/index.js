@@ -6,3 +6,5 @@ export const getFood = (category = null) => category ? food.filter(plate => plat
 export const getFeaturedFood = () => food.filter(plate => plate.featured)
 
 export const getCategories = () => categories
+
+export const getCategory = id => categories.find(category => category.id === id)

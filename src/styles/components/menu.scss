@@ -1,0 +1,23 @@
+.categories-menu {
+  @include display-flexbox();
+  @include justify-content(center);
+  @include align-items(center);
+  margin: 2rem auto;
+
+  a {
+    position: relative;
+    margin: 0 2rem;
+
+    &.active {
+      &::after {
+        content: "";
+        position: absolute;
+        bottom: -0.5em;
+        left: 10%;
+        width: 80%;
+        height: 0.15em;
+        border-radius: 0.5em;
+      }
+    }
+  }
+}
