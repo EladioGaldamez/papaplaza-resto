@@ -1,0 +1,62 @@
+.about-page {
+  .information-section {
+    @include display-flexbox(auto);
+    @include justify-content(center);
+    @include align-items(flex-start);
+    padding: 8rem;
+    height: auto;
+
+    img {
+      width: 100%;
+      height: auto;
+      object-fit: cover;
+      object-position: center;
+    }
+
+    .image {
+      @include display-flexbox(auto);
+      @include justify-content(center);
+      @include align-items(flex-start);
+      @include flex(1);
+    }
+
+    .content {
+      @include display-flexbox(auto);
+      @include flex-direction(column);
+      @include flex(1);
+      padding: 2rem;
+
+      h2 {
+        margin: 0;
+        font-size: 2rem;
+        font-weight: 600;
+      }
+
+      img {
+        display: block;
+        margin-top: 5%;
+        margin-left: -40%;
+        height: 400px;
+      }
+    }
+
+    &.reverse {
+      padding-top: 0;
+
+      .image {
+        order: 2;
+      }
+
+      .content {
+        order: 1;
+        text-align: right;
+        z-index: 2;
+
+        img {
+          margin-left: auto;
+          margin-right: -40%;
+        }
+      }
+    }
+  }
+}

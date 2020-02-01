@@ -6,13 +6,15 @@ class Score extends React.Component {
     const {
       score,
       max = 5,
+      fill = '#ffffff',
+      color,
     } = this.props
 
     const stars = []
 
     for (let index = 0; index < max; index++) {
       stars.push(
-        <FiStar { ...(index < score ? {fill: "#ffffff"} : {}) } size={24} key={index} />
+        <FiStar color={color} { ...(index < score ? { fill } : {}) } size={24} key={index} />
       )
     }
 

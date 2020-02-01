@@ -1,0 +1,41 @@
+body.is-plate {
+  .header {
+    background-color: #2b2b2b;
+  }
+}
+
+.plate-page {
+  @include display-flexbox(auto);
+  @include align-items(flex-start);
+  padding: 8rem 4rem;
+
+  .image {
+    @include flex(2);
+
+    img {
+      width: 100%;
+      height: auto;
+    }
+  }
+   
+  .info {
+    @include flex(1);
+    padding: 0 2rem;
+
+    h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+
+    h3 {
+      margin: 1rem 0;
+      font-size: 1.2rem;
+      color: #696969;
+      font-weight: 400;
+    }
+
+    .score {
+      margin-bottom: 2.5rem;
+    }
+  }
+}

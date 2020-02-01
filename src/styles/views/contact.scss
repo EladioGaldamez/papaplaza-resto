@@ -1,0 +1,71 @@
+.contact-page {
+  .contact-form {
+    @include display-flexbox(auto);
+    @include align-items(flex-start);
+    @include justify-content(center);
+    padding: 4rem;
+
+    .image {
+      width: 60%;
+      
+      img {
+        width: 100%;
+      }
+    }
+
+    .contact {
+      width: 40%;
+      padding-top: 8rem;
+
+      .phone-number {
+        background: #fbcc02;
+        padding: 1rem 2rem 1rem 8rem;
+        margin-left: -6rem;
+        box-shadow: 0 0 5px 2px #a0a0a0;
+
+        h1 {
+          margin: 0;
+          font-size: 2.5rem;
+          font-weight: 400;
+          font-style: italic;
+        }
+
+        h2 {
+          margin: 0;
+          font-size: 1.8rem;
+          font-weight: 300;
+          font-style: italic;
+        }
+
+        p {
+          margin: 2rem 0 1rem;
+        }
+      }
+
+      .opening-hours {
+        padding: 2rem 3rem;
+
+        h1 {
+          margin: 0;
+          font-size: 2rem;
+          text-transform: capitalize;
+          text-align: center;
+        }
+
+        p {
+          color: #696969;
+          text-align: center;
+        }
+
+        .item {
+          @include display-flexbox(auto);
+          @include align-items(center);
+          @include justify-content(space-between);
+          border-bottom: 2px solid #505050;
+          padding: 1rem;
+          color: #696969;
+        }
+      }
+    }
+  }
+}

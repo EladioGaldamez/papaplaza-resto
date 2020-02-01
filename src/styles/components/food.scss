@@ -97,7 +97,12 @@
   &.full {
     .content {
       background-color: #fbcc02;
+      text-align: center;
       color: $black;
+
+      svg[fill="#ffffff"] {
+        fill: #000;
+      }
     }
   }
 }

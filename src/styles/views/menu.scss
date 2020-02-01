@@ -1,0 +1,26 @@
+.menu-page {
+  .categories-menu {
+    .category-menu {
+      color: #969696;
+
+      &.active {
+        color: #5a5a5a;
+        &::after {
+          background-color: #5a5a5a;
+        }
+      }
+    }
+  }
+
+  .food {
+    @include flex-wrap(wrap);
+    padding-top: 1rem;
+
+    .plate {
+      @include flex(none);
+      display: block;
+      width: calc(25% - 2rem);
+      margin: .5rem;
+    }
+  }
+}
