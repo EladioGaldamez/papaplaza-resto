@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/papaplaza-resto/precache-manifest.87d2dd806516f4df0b70ab635249cb65.js"
+  "/papaplaza-resto/precache-manifest.2260e6cc11ef7bb1915f6347ad31b20d.js"
 );
 
 self.addEventListener('message', (event) => {

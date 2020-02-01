@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/papaplaza-resto/static/css/main.b2a082f6.chunk.css",
-    "main.js": "/papaplaza-resto/static/js/main.829707c4.chunk.js",
-    "main.js.map": "/papaplaza-resto/static/js/main.829707c4.chunk.js.map",
+    "main.js": "/papaplaza-resto/static/js/main.52e2fc87.chunk.js",
+    "main.js.map": "/papaplaza-resto/static/js/main.52e2fc87.chunk.js.map",
     "runtime-main.js": "/papaplaza-resto/static/js/runtime-main.dba929d8.js",
     "runtime-main.js.map": "/papaplaza-resto/static/js/runtime-main.dba929d8.js.map",
-    "static/js/2.b071b50f.chunk.js": "/papaplaza-resto/static/js/2.b071b50f.chunk.js",
-    "static/js/2.b071b50f.chunk.js.map": "/papaplaza-resto/static/js/2.b071b50f.chunk.js.map",
+    "static/js/2.a1edc89c.chunk.js": "/papaplaza-resto/static/js/2.a1edc89c.chunk.js",
+    "static/js/2.a1edc89c.chunk.js.map": "/papaplaza-resto/static/js/2.a1edc89c.chunk.js.map",
     "index.html": "/papaplaza-resto/index.html",
-    "precache-manifest.87d2dd806516f4df0b70ab635249cb65.js": "/papaplaza-resto/precache-manifest.87d2dd806516f4df0b70ab635249cb65.js",
+    "precache-manifest.2260e6cc11ef7bb1915f6347ad31b20d.js": "/papaplaza-resto/precache-manifest.2260e6cc11ef7bb1915f6347ad31b20d.js",
     "service-worker.js": "/papaplaza-resto/service-worker.js",
     "static/css/main.b2a082f6.chunk.css.map": "/papaplaza-resto/static/css/main.b2a082f6.chunk.css.map",
-    "static/js/2.b071b50f.chunk.js.LICENSE": "/papaplaza-resto/static/js/2.b071b50f.chunk.js.LICENSE"
+    "static/js/2.a1edc89c.chunk.js.LICENSE": "/papaplaza-resto/static/js/2.a1edc89c.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.dba929d8.js",
-    "static/js/2.b071b50f.chunk.js",
+    "static/js/2.a1edc89c.chunk.js",
     "static/css/main.b2a082f6.chunk.css",
-    "static/js/main.829707c4.chunk.js"
+    "static/js/main.52e2fc87.chunk.js"
   ]
 }
